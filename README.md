@@ -26,8 +26,6 @@ GREEN, D. W.; WILLHITE, G. P. Enhanced Oil Recovery. Society of Petroleum Engine
 
 KREVOR, S. et al. Capillary trapping for geologic carbon dioxide storage from pore scale physics to field scale implications. International Journal of Greenhouse Gas Control, v. 40, p. 221-237, 2015..
 
-LAKE, L. W. et al. 
-
 Fundamentals of enhanced oil recovery, v. 1. Society of Petroleum Engineers Richardson, TX, 2014..
 
 MUGGERIDGE, A. et al. Recovery rates. enhanced oil recovery and technological limits. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, v. 372, n. 2006, p. 20120320, 2014..
